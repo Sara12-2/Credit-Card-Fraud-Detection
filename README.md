@@ -10,7 +10,6 @@
 This project builds a machine learning model to **detect fraudulent credit card transactions**. It handles a highly imbalanced dataset using **SMOTE** oversampling and compares **Logistic Regression** and **Random Forest** classifiers, evaluating them using precision, recall, F1-score, and ROC-AUC.
 
 ---
-
 ## 🎯 Objectives
 
 - Build a model to detect fraudulent transactions
